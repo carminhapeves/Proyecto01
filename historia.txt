@@ -1,3 +1,4 @@
 Hola, soy Junior Peves
-45289722
+Tengo 32 años, me gusta el ceviche
+
 Estoy empezando mi Curso de Git
