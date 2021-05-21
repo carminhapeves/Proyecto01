@@ -1,5 +1,3 @@
 EMPRESA     :   VIETTEL PERU SAC
 Dirección   :   Calle 21 N° 878 Urb Corpac San Isidro - LIMA
 RUC         :   20543254798
-Rubro       :   Telecomunicaciones
-Area        :   PERU
