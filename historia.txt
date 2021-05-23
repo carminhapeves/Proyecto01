@@ -2,5 +2,5 @@ Hola, soy Junior Peves
 45289722
 Estoy empezando mi Curso de Git
 
-Hola, soy Carminha Peves
-Hermana de Junior
+Hola, soy Carminha Peves soy un contribuyente
+Haré Pull Request desde Fork
